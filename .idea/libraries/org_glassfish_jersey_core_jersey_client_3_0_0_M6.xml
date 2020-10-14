@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="org.glassfish.jersey.core:jersey-client:3.0.0-M6" type="repository">
+    <properties maven-id="org.glassfish.jersey.core:jersey-client:3.0.0-M6" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jersey-client-3.0.0-M6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.ws.rs-api-3.0.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-common-3.0.0-M6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.annotation-api-2.0.0-RC1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.activation-api-2.0.0-RC3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/osgi-resource-locator-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.activation-2.0.0-RC3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.inject-api-2.0.0-RC4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
